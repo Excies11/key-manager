@@ -21,6 +21,9 @@
     "F6G7H8",
     "I9J1K2"
   ],
-  "revoked_keys": []
+  "revoked_keys": [
+    "A1B2C3",
+  ],
 }
+
 
